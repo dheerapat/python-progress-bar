@@ -1,5 +1,7 @@
 import math
 
+# some how this snippet only work on window command prompt
+
 
 def progress_bar(progress, total):
     percent = 100 * (progress / float(total))
